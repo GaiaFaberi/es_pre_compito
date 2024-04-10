@@ -1,3 +1,7 @@
 #map { 
-    height: 900px; 
+    height: 500px; 
+}
+
+#grafico{
+    width: 500px;
 }
